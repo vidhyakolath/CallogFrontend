@@ -1,0 +1,34 @@
+.Signin{
+    background-color: hsl(202, 24%, 93%);
+    width: 70%;
+    height: 500px;
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/02/04/Light-Blue-Abstract-Webpage-Background-Graphics-1.jpg);
+
+
+}
+.fir{
+ background-color: rgba(166, 211, 230, 0.712);
+ width: 60%;
+ height: 60%;
+ border-radius: 25px;
+ 
+}
+h2{
+    color: rgb(40, 109, 237);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    width: 50%;
+}
+button{
+    background-color:  rgb(40, 109, 237);
+    width: 52%;
+}
+.nav{
+    color:rgb(40, 109, 237);
+    text-decoration: none;
+}
